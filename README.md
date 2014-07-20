@@ -1,4 +1,4 @@
-azat_express
+azat-express
 ============
 
 testing repo for azat
